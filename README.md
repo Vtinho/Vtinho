@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! My name is Vitor Manzotti and I'm a 20 years old guy, from Brazil</h2>
+<h2 align="left">Hi! My name is Vitor Manzotti and I'm a 20 years old guy, from Brazil. I'm studying Computer Science in UFABC</h2>
 
 ###
 
