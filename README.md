@@ -3,12 +3,19 @@
 ###
 
 <div align="center">
-  <!-- Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Vtinho&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- Streak card -->
-  <img src="https://streak-stats.demolab.com?user=Vtinho&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vtinho&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <a href="https://github.com/Vtinho">
+    <img src="https://img.shields.io/github/followers/Vtinho?label=Followers&style=for-the-badge" height="28" alt="followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Vtinho?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-?style=for-the-badge&logo=github" height="28" alt="repos" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Vtinho">
+    <img src="https://img.shields.io/github/last-commit/Vtinho?style=for-the-badge" height="28" alt="last commit" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Vtinho">
+    <img src="https://img.shields.io/github/languages/top/Vtinho?style=for-the-badge" height="28" alt="top language" />
+  </a>
 </div>
